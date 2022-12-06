@@ -1,0 +1,7 @@
+syntax: glob
+cookie.dat
+__pycache__
+*~
+junk
+*.bak*
+*.swp*
